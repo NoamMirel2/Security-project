@@ -1,6 +1,6 @@
 # Security project
 
- Add short description of project here > 
+ this program will help with increasing privacy of a device you the program on. 
 
 ![add image descrition here](direct image link here)
 
