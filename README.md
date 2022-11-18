@@ -6,7 +6,7 @@
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+The program is going to have access to live camera feed from a certain camera on the device. It will see if an object is approaching the device. Then it will define if the object is a person or not. then if it's a person the program will see if the person is you or not. if it's not you then the program is going to send you a message via e-mail. 
 
 ## Running this project
 
