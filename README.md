@@ -2,7 +2,7 @@
 
  this program will help with increasing privacy of a device you the program on. 
 
-![add image descrition here](direct image link here)
+![An image where the room that the device is in empty, and there is nobody approaching the device](https://imgur.com/JsHxvs2)
 
 ## The Algorithm
 
