@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>me_6.HEIC</filename>
+	<path>/Users/naum/Desktop/images/me_6.HEIC</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2316</width>
+		<height>3088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>me</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>1004</ymin>
+			<xmax>1775</xmax>
+			<ymax>2827</ymax>
+		</bndbox>
+	</object>
+</annotation>

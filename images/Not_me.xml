@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Not_me.HEIC</filename>
+	<path>/Users/naum/Desktop/images/Not_me.HEIC</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not me</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>677</xmin>
+			<ymin>905</ymin>
+			<xmax>2261</xmax>
+			<ymax>3360</ymax>
+		</bndbox>
+	</object>
+</annotation>
