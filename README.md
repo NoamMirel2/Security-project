@@ -2,7 +2,7 @@
 
  this program will help with increasing privacy of a device you the program on. 
 
-![An image where the room that the device is in empty, and there is nobody approaching is device]([Imgur](https://imgur.com/JsHxvs2))
+![An image where the room that the device is in empty, and there is nobody approaching is device]<blockquote class="imgur-embed-pub" lang="en" data-id="JsHxvs2"><a href="https://imgur.com/JsHxvs2">View post on imgur.com</a></blockquote>
 
 ## The Algorithm
 
@@ -10,7 +10,7 @@ The program is going to have access to live camera feed from a certain camera on
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+In my repository here i have my Script you can run it and see how it works. 
+I also have the Documentation here in the README.md file. 
 
 [View a video explanation here](video link)
