@@ -11,6 +11,7 @@ The program is going to have access to live camera feed from a certain camera on
 ## Running this project
 
 In my repository here i have my Script you can run it and see how it works. 
-I also have the Documentation here in the README.md file. 
+I also have the Documentation here in the README.md file. I have labels.txt file here i has all the lables needed for training the program. 
+There is an images folder here as well it contains all the images, and the "xml" files of the images. 
 
 [View a video explanation here](video link)
