@@ -10,7 +10,7 @@ The program is going to have access to live camera feed from a certain camera on
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+In my repository here i have my Script you can run it and see how it works. 
+I also have the Documentation here in the README.md file. 
 
 [View a video explanation here](video link)
