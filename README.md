@@ -13,3 +13,4 @@ The program is going to have access to live camera feed from a certain camera on
 In my repository here i have my Script you can run it and see how it works. 
 I also have the Documentation here in the README.md file. I have labels.txt file here i has all the lables needed for training the program. 
 There is an images folder here as well it contains all the images, and the "xml" files of the images. 
+There is also a full_database.zip file, it's the file that contains all the labeled images from CVAT software. 
